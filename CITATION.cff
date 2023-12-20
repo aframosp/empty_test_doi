@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: Empty code repository for DOI
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andres Felipe
+    family-names: Ramos Padilla
+    email: andres.ramos.padilla@rivm.nl
+    affiliation: >-
+      National Institute for Public Health and the
+      Environment
+    orcid: 'https://orcid.org/0000-0002-4561-2452'
+  - given-names: Jan
+    family-names: Janssen
+    affiliation: >-
+      National Institute for Public Health and the
+      Environment
+doi: 10.1234/fake.doi.1234
+identifiers:
+  - type: doi
+    value: 10.1234/fake.doi.1234
+    description: >-
+      Fake DOI assuming this will be replaced after
+      submission. Also adding DOI field
+repository-code: 'https://github.com/aframosp/empty_test_doi'
+url: 'https://github.com/aframosp/empty_test_doi'
+abstract: Describe the repository here
+keywords:
+  - test
+  - zenodo
+  - code
+license: EUPL-1.2
+version: 0.0.1
+date-released: '2023-12-19'
