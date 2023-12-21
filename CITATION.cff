@@ -17,7 +17,6 @@ authors:
     affiliation: >-
       National Institute for Public Health and the
       Environment
-doi: 10.1234/fake.doi.1234
 identifiers:
   - type: doi
     value: 10.1234/fake.doi.1234
@@ -33,4 +32,5 @@ keywords:
   - code
 license: EUPL-1.2
 version: 0.0.1
-date-released: '2023-12-19'
+doi: 10.82290/rivm_soft_0003
+date-released: 2023-12-21
