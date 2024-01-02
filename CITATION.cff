@@ -20,7 +20,7 @@ authors:
 contact:
   - affiliation: "National Institute for Public Health and the Environment"
     email: info@rivm.nl
-    name: Andres, Ramos
+    name: Name test project
 identifiers:
   - type: doi
     value: 10.1234/fake.doi.1234
