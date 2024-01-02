@@ -18,9 +18,8 @@ authors:
       National Institute for Public Health and the
       Environment
 contact:
-  - affiliation: "National Institute for Public Health and the Environment"
-    email: info@rivm.nl
-    name: "Name test project"
+  - email: info@rivm.nl
+    name: "National Institute for Public Health and the Environment"
 identifiers:
   - type: doi
     value: 10.1234/fake.doi.1234
