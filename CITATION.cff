@@ -35,5 +35,6 @@ keywords:
   - code
 license: EUPL-1.2
 version: 0.0.2
-doi: 10.2134/fakedoi.123
-date-released: 2023-12-20
+
+doi: 10.82290/rivm_soft_0004
+date-released: 2024-01-02
